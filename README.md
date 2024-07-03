@@ -35,3 +35,4 @@ The JavaScript code manages adding, deleting, and checking off subtasks.
 ### **Overall:**
 
 This project is a simple yet functional To-Do List web application. It leverages the power of HTML, CSS, and JavaScript, along with Bootstrap for styling, to create a user-friendly interface for managing tasks. The local storage functionality allows the application to save the tasks across browser sessions, so the user doesn't have to re-enter them every time they use the application.
+
